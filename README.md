@@ -10,8 +10,8 @@ I bridge the gap between high-level Machine Learning models and production-ready
 
 ### 💻 Languages & Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🧠 Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -39,12 +39,16 @@ I bridge the gap between high-level Machine Learning models and production-ready
 
 ---
 
-## 📈 My GitHub Activity
+## 📈 My Activity & Statistics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kashyap0612&show_icons=true&theme=tokyonight&count_private=true" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap0612&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap0612&theme=tokyonight" height="170" />
+</p>
+
+<p align="left">
+  <img src="https://leetcode-stats.vercel.app/api?username=consistent_kashyap&theme=Dark" height="170" />
 </p>
 
 ---
