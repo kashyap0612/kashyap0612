@@ -83,6 +83,6 @@ I bridge the gap between high-level Machine Learning models and production-ready
 ---
 
 ## 📫 How to Connect
-* 💼 [LinkedIn](https://www.linkedin.com/in/kashyap0612/) *(https://www.linkedin.com/in/kashyapinfralord/)*
-* 🌐 [Portfolio Website](https://your-portfolio-url.com) *(https://kashyap0612.github.io/linekd)*
-* 📝 [LeetCode Profile](https://leetcode.com/kashyap0612) *(https://leetcode.com/u/consistent_kashyap/)*
+* 💼 [LinkedIn](https://www.linkedin.com/in/kashyapinfralord/)
+* 🌐 [Portfolio Website](https://kashyap0612.github.io/linekd)
+* 📝 [LeetCode Profile](https://leetcode.com/u/consistent_kashyap/)
